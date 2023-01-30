@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Data_Feching/static/css/main.073c9b0a.css",
+    "main.js": "/Data_Feching/static/js/main.3ecef766.js",
+    "static/js/787.37684794.chunk.js": "/Data_Feching/static/js/787.37684794.chunk.js",
+    "static/media/logo.svg": "/Data_Feching/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Data_Feching/index.html",
+    "main.073c9b0a.css.map": "/Data_Feching/static/css/main.073c9b0a.css.map",
+    "main.3ecef766.js.map": "/Data_Feching/static/js/main.3ecef766.js.map",
+    "787.37684794.chunk.js.map": "/Data_Feching/static/js/787.37684794.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3ecef766.js"
+  ]
+}
